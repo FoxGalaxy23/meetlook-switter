@@ -1,1 +1,23 @@
-test
+#Meetlook Switter 🇺🇸
+This is the first version of the Meetlookers.com microblogging social network. The whole social network started as a joke, clone of twitter(a Switter with a dead bird).
+This social network essentially served as a prototype, but was abandoned for security reasons.
+The social network didn't have system sessions; anyone could sign a random ID into cookies and log in under someone else's name, and so on. It was easier for me to rewrite the entire code from scratch than to fix bugs.
+
+The current Meetlookers social network works differently than this prototype (because the final version was completely rewritten from scratch).
+
+I don't know whether I'll develop it or not, because I don't see the point in developing it.
+
+I published the source code just for fun because I have nothing better to do :P
+Now anyone can get a face palm in the face from my crappy code(or vibe code idk), which I scribbled down during boring class in college.
+
+#Meetlook Switter 🇷🇺
+Это первая версия социальной сети для микроблогов Meetlookers.com, вся социальная сеть начаналась как рофл мол сделал твиттер(свиттер с мёртвой птичкой)
+Данная социальная сеть служила по сути прототипом, но была заброшена по сооброжениям безопасности
+социальная сеть не имела систему сессий, кто угодно мог подписать в cookie файлы рандомный айдишник и зайти под чужим именем и так далее, мне легче было переписать весь код с нуля чем фиксить баги
+
+Текущая социальная сеть Meetlookers работает иначе чем этот прототип(потому что финальная версия была переписана полностью с нуля)
+
+Я не знаю буду ли я её как либо развивать или нет, потому что смысла в развитии я не вижу
+
+Опубликовал исходный код чисто по рофлу потому что мне нефиг делать :P
+Теперь кто угодно может получить испанский стыд от моего говно кода который я колякал во время пар в коледже
